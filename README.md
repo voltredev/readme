@@ -1,5 +1,5 @@
 <!-- Bannière en haut (tu peux remplacer l'URL par celle de ton image/bannière perso) -->
-!([https://i.postimg.cc/2SZ6C2kp/Adobe-Express-file-31.png)
+https://i.postimg.cc/2SZ6C2kp/Adobe-Express-file-31.png
 
 # voltredev  
 *Développeur full‑stack / Passionné de FiveM*
